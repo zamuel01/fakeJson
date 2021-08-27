@@ -4,5 +4,5 @@
     { "id": 1, "name": "Banco Economico", "image": "google.com" },
     { "id": 2, "name": "Banco Sol", "image": "google.com" },
     { "id": 3, "name": "Banco Fie", "image": "google.com" }
-  ],
+  ]
 }
