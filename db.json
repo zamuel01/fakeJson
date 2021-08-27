@@ -1,0 +1,12 @@
+{
+        {
+          "id": 1,
+          "name": "Banco Sol",
+          "imageQr": "gogle.com",
+        },
+        {
+          "id": 2,
+          "name": "Banco Economico",
+          "imageQr": "Google",
+        }
+}
