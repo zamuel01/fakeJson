@@ -1,4 +1,4 @@
-{
+[
         {
           "id": 1,
           "name": "Banco Sol",
@@ -9,4 +9,4 @@
           "name": "Banco Economico",
           "imageQr": "Google",
         }
-}
+]
